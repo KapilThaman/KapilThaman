@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **new unique projects to build some digital solutions**
 
-- 👨‍💻 All of my projects are available at [https://thamanportfolio.netlify.app/](https://thamanportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at (https://www.linkedin.com/in/kapil-thaman/)] and (https://kapil-profile.netlify.app/)
 
 - 📝 I regularly Push Codes on [DSA and Multiple Projects](DSA and Multiple Projects)
 
